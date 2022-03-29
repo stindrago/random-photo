@@ -13,6 +13,8 @@
 		FA37B2D927F3697500C20D25 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FA37B2D727F3697500C20D25 /* Main.storyboard */; };
 		FA37B2DB27F3697A00C20D25 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FA37B2DA27F3697A00C20D25 /* Assets.xcassets */; };
 		FA37B2DE27F3697A00C20D25 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FA37B2DC27F3697A00C20D25 /* LaunchScreen.storyboard */; };
+		FA37B2F327F3823400C20D25 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = FA37B2E727F3823400C20D25 /* README.md */; };
+		FA37B2FB27F3823400C20D25 /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = FA37B2F227F3823400C20D25 /* LICENSE */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,9 @@
 		FA37B2DA27F3697A00C20D25 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FA37B2DD27F3697A00C20D25 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FA37B2DF27F3697A00C20D25 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FA37B2E727F3823400C20D25 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		FA37B2F227F3823400C20D25 /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		FA37B2FC27F3848100C20D25 /* demo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = demo.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,7 +45,10 @@
 		FA37B2C527F3697400C20D25 = {
 			isa = PBXGroup;
 			children = (
+				FA37B2FC27F3848100C20D25 /* demo.png */,
+				FA37B2F227F3823400C20D25 /* LICENSE */,
 				FA37B2D027F3697500C20D25 /* RandomPhoto */,
+				FA37B2E727F3823400C20D25 /* README.md */,
 				FA37B2CF27F3697500C20D25 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -102,7 +110,7 @@
 					};
 				};
 			};
-			buildConfigurationList = FA37B2C927F3697400C20D25 /* Build configuration list for PBXProject "RandomPhoto" */;
+			buildConfigurationList = FA37B2C927F3697400C20D25 /* Build configuration list for PBXProject "random-photos" */;
 			compatibilityVersion = "Xcode 13.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -127,6 +135,8 @@
 			files = (
 				FA37B2DE27F3697A00C20D25 /* LaunchScreen.storyboard in Resources */,
 				FA37B2DB27F3697A00C20D25 /* Assets.xcassets in Resources */,
+				FA37B2F327F3823400C20D25 /* README.md in Resources */,
+				FA37B2FB27F3823400C20D25 /* LICENSE in Resources */,
 				FA37B2D927F3697500C20D25 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -337,7 +347,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		FA37B2C927F3697400C20D25 /* Build configuration list for PBXProject "RandomPhoto" */ = {
+		FA37B2C927F3697400C20D25 /* Build configuration list for PBXProject "random-photos" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				FA37B2E027F3697A00C20D25 /* Debug */,
