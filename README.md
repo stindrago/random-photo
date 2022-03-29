@@ -1,3 +1,5 @@
 # Random Photo
 
-![](./demo.png)
+<img src="demo.png" alt="iphone13pro" width="60"/>
+
+---
