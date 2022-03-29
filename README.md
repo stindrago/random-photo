@@ -1,5 +1,12 @@
+.foo {
+  text-align: center;
+  width: 100px;
+}
+
 # Random Photo
 
+{:.foo}
+![drawing](drawing.jpg)
 <img src="demo.png" alt="iphone13pro" width="200"/>
 
 ---
