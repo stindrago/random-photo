@@ -13,6 +13,6 @@ The image is provided by [this API](https://source.unsplash.com/random/600x600).
 - [Swift](https://www.swift.org)
 - [UiKit](https://developer.apple.com/documentation/uikit)
 
-# [LICENSE](./license.md)
+# [LICENSE](./LICENSE)
 
 Public domain.
