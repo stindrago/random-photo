@@ -11,7 +11,7 @@ The image is provided by [this API](https://source.unsplash.com/random/600x600).
 # Stack
 
 - [Swift](https://www.swift.org)
-- [UuKit](https://developer.apple.com/documentation/uikit)
+- [UiKit](https://developer.apple.com/documentation/uikit)
 
 # [LICENSE](./license.md)
 
